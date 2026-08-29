@@ -33,5 +33,6 @@ Accede al sistema funcional aquí:
 ---
 
 ## 💻 Desarrollo:
-Axel Dariel Perez
+ * Axel Dariel Perez
 ## Linkedln:
+ * https://www.linkedin.com/in/axel-dariel-perez-a28016316/
