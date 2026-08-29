@@ -32,5 +32,6 @@ Accede al sistema funcional aquí:
 
 ---
 
-## 💻 Desarrollo con IA
-Proyecto desarrollado como MVP asistido por Inteligencia Artificial para la Práctica Final.
+## 💻 Desarrollo:
+Axel Dariel Perez
+## Linkedln:
